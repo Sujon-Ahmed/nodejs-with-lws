@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-with-lws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujon-Ahmed/nodejs-with-lws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sujon-Ahmed/nodejs-with-lws/issues"
+  },
+  "homepage": "https://github.com/Sujon-Ahmed/nodejs-with-lws#readme",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint": "8.2.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-prettier": "^5.5.5",
+    "prettier": "^3.8.3"
+  }
+}
